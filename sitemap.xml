@@ -1,242 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sindorim-room-note.namanavi.com/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sindorim-room-note.namanavi.com/</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sindorim-room-note.namanavi.com/about.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/compare-002-r3torx.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.namanavi.com/posts/juice-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.namanavi.com/posts/juice-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.namanavi.com/posts/normal-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.namanavi.com/posts/normal-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.namanavi.com/posts/normal-3.html</loc>
-    <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260705-1087.html</loc>
-    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0465.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0466.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0467.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0468.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0469.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0470.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0471.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0472.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0473.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0474.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0475.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0476.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0477.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0478.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0479.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260719-0480.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260721-0227.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260721-0228.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260721-0229.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260721-0230.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0144.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0145.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0146.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0147.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0148.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0149.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0150.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0151.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0152.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0153.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sindorim-room-note.namanavi.com/posts/gemini-coverage-20260722-0154.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.namanavi.com/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.namanavi.com/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.namanavi.com/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.namanavi.com/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.namanavi.com/posts/normal-3.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
